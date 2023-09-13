@@ -4,6 +4,7 @@ import cors from "cors";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
 import authRoute from "./routes/auth.js";
+// const bcrypt = require('bcrypt');
 
 dotenv.config();
 
